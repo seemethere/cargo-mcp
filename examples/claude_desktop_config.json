@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "cargo-mcp": {
+      "command": "cargo-mcp",
+      "args": [],
+      "env": {}
+    }
+  }
+} 
